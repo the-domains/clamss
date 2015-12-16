@@ -1,7 +1,7 @@
 name: clamss
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.19595
+layout_spectrum: 0.50318
+typography_spectrum: 0.24509
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.9814210333861411
+  brandStrength: 0.5
   lightness: 0.6321375803090632
-  saturation: 0.10938330460339785
+  saturation: 0.5
   rhythmicContrast: 0.78564193402417
 purpose: []
