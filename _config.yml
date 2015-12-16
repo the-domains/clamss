@@ -1,0 +1,28 @@
+name: clamss
+favicon: null
+layout_spectrum: 0.05800998047925532
+typography_spectrum: 0.8593045175075531
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9814210333861411
+  lightness: 0.6321375803090632
+  saturation: 0.10938330460339785
+  rhythmicContrast: 0.78564193402417
+purpose: []
